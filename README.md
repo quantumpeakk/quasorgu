@@ -25,7 +25,7 @@ python quapanel.py
 ```
 lyrica
 ```
-# Özellikler:
-**GSM > TC**
-**TC > GSM**
-**AD/SOYAD İL/İLÇE > TC**
+## Özellikler:
+# **GSM > TC**
+# **TC > GSM**
+# **AD/SOYAD İL/İLÇE > TC**

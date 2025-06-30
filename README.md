@@ -22,3 +22,5 @@ cd quapanel
 python quapanel.py
 ```
 ## Şifre: lyrica
+```
+lyrica

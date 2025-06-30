@@ -24,3 +24,8 @@ python quapanel.py
 ## Şifre: lyrica
 ```
 lyrica
+```
+## Özellikler:
+GSM > TC
+TC > GSM
+AD/SOYAD İL/İLÇE > TC

@@ -1,4 +1,4 @@
-# quasorgu
+# Quasorgu Tool
 
 S0rgu Paneli
 
@@ -20,3 +20,5 @@ cd quapanel
 ```
 ```
 python quapanel.py
+```
+## Şifre: lyrica
